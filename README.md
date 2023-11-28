@@ -14,5 +14,6 @@ Here is our repository with README for Bangkit 2023 Capstone project
 
 ### Documentation:
 -  [Cloud Computing](https://github.com/EduSafety/Cloud-Computing)
--  [Machine Learning](https://github.com/EduSafety/EduSafety/tree/Machine-Learning)
+-  [Machine Learning](https://github.com/EduSafety/Machine-Learning)
+-  [Android Development](https://github.com/EduSafety/Android-Development)
 
