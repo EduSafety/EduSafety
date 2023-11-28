@@ -13,5 +13,6 @@ Here is our repository with README for Bangkit 2023 Capstone project
 - (MD)  A182BSY2323 – Rizki Nugroho – Amikom Purwokerto University
 
 ### Documentation:
--  [Cloud Computing](https://github.com/EduSafety/Cloud-Computing) 
+-  [Cloud Computing](https://github.com/EduSafety/Cloud-Computing)
+-  [Machine Learning](https://github.com/EduSafety/EduSafety/tree/Machine-Learning)
 
